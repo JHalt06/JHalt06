@@ -3,7 +3,7 @@
 **`Software Engineering Student`**
 
 ![_Software Engineer LinkedIn Banner (1) (1)](https://github.com/user-attachments/assets/4ec6ddcb-f46b-42a0-a544-0bcb984b3ae1)
-My name is James Halt. I am from Buffalo, NY and am currently pursuing my Software Engineering BS as a student at Rochester Institute of Technology (RIT). 
+My name is James Halt. I'm from Buffalo, NY and currently studying at Rochester Institute of Technology (RIT), working toward my degree in Software Engineering.
 
 <div id="badges" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/james-halt">
